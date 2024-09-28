@@ -30,7 +30,7 @@ This project explores a comparative analysis of various word vector embedding te
 
 **Total Trainable Parameters-** 100739
 
-![Project Structure-Flow Diagram](https://github.com/pawankalyanakula18/Comparative-Analysis-of-Word-Vector-Embeddings-of-DNA-Genome-Sequences/blob/main/Project-Flow_Diagram.png)
+![Project Structure-Flow Diagram](Project-Flow_Diagram.png)
 
 ## Results
 The model accuracy with One-hot encoding incrreases from 0.847 to 1.000 for training data and from 0.9368 to 0.9781 for validation data over 30 epochs.
